@@ -1,0 +1,8 @@
+/*--- Nav ---*/
+.navbar-default .nav li a {text-align: center;}
+.logo img{height: 1.6em;}
+.navbar-default .navbar-brand { padding-top: 9px;}
+
+
+/*--- Footer ---*/
+footer {background: #000; padding: 51px 0; text-align: center;}

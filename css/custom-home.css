@@ -1,0 +1,19 @@
+.navbar-default .nav li a {text-align: center;}
+.logo img{height: 1.6em;}
+footer {background: #000;
+  padding: 51px 0;
+  text-align: center;
+}
+hr.separator {
+  background: transparent url(./img/background/homepage/separator.png) repeat-x;
+  height: 32px;
+  margin: 0 auto;
+  border: 0;}
+.intro-button{margin-top: 65px;}
+
+
+
+.navbar-default .navbar-brand {
+    padding-top: 9px;
+}
+}
